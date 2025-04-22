@@ -15,21 +15,36 @@ Proyectode practica simple sobre tienda online, en PHP utilizando el patrón MVC
 │ │ │ └── Views/
 
 ├── Core/ 
+
 │ │ │ ├── Logger.php
+
 │ │ │ └── Router.php  
+
 ├── db/ 
+
 │ │ │ ├── minitiendaonline.sql 
+
 │ │ │ └── diagramas/
+
 ├── logs/
+
 │ │ │ └── app.log 
+
 ├── Public/ 
+
 │ │ │ ├── assets/Productos/
+
 │ │ │ ├── .htaccess **(DEBE INCLUIRLO)**
+
 │ │ │ └── index.php 
+
 ├── config.php 
+
 ├── composer.json 
-├── .env (DEBE INCLUIRLO) 
-└── .htaccess (DEBE INCLUIRLO)
+
+├── .env **(DEBE INCLUIRLO)**
+
+└── .htaccess **(DEBE INCLUIRLO)**
 
 
 ## Instalar las dependencias con Composer:

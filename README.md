@@ -7,9 +7,13 @@ Proyectode practica simple sobre tienda online, en PHP utilizando el patrón MVC
 ## Estructura del Proyecto
 
 ├── app/ 
+
 │ │ │ ├── Controllers/
+
 │ │ │ ├── Models/
+
 │ │ │ └── Views/
+
 ├── Core/ 
 │ │ │ ├── Logger.php
 │ │ │ └── Router.php  
